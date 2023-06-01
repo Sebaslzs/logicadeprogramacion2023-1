@@ -1,9 +1,9 @@
 
-print ("adios mundo")
+print ("cambio 1 de junio.2")
 
-print("adios mundo")
+print("cambio 1 de junio.2")
 
-print(aja)
+print(que)
 
 printo(no)
 
